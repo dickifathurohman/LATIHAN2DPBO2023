@@ -12,10 +12,19 @@ Desain yang dibuat menggunakan 3 kelas, yaitu :
 - SivitasAkademik (Derived Class 1) -> mewarisi Human
 - Mahasiswa (Derived Class 2) -> mewarisi SivitasAkademik
 
+Karena Mahasiswa merupakan sivitas akademik dan sivitas akademik merupakan Human
+
 ## Atribut class
 `Class Human` :
 - NIK
 - Nama
-- Gender
+- Gender (jenis_kelamin)
+'Class SivitasAkademik :
+- univ (asal_universitas)
+- email
 'Class Mahasiswa' :
-- 
+- NIM
+- Fakultas
+- Prodi
+
+## Dokumentasi
