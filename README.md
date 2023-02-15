@@ -17,16 +17,17 @@ Karena Mahasiswa merupakan sivitas akademik dan sivitas akademik merupakan Human
 ![dpbo2](https://user-images.githubusercontent.com/100754802/218935207-c6259434-7210-448c-9bb8-f05a68cbf2a2.jpg)
 
 
-
 ## Atribut class
 `Class Human` :
 - NIK
 - Nama
 - Gender (jenis_kelamin)
-'Class SivitasAkademik :
+
+`Class SivitasAkademik` :
 - univ (asal_universitas)
 - email
-'Class Mahasiswa' :
+
+`Class Mahasiswa` :
 - NIM
 - Fakultas
 - Prodi
