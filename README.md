@@ -14,6 +14,10 @@ Desain yang dibuat menggunakan 3 kelas, yaitu :
 
 Karena Mahasiswa merupakan sivitas akademik dan sivitas akademik merupakan Human
 
+![dpbo2](https://user-images.githubusercontent.com/100754802/218935207-c6259434-7210-448c-9bb8-f05a68cbf2a2.jpg)
+
+
+
 ## Atribut class
 `Class Human` :
 - NIK
@@ -27,4 +31,8 @@ Karena Mahasiswa merupakan sivitas akademik dan sivitas akademik merupakan Human
 - Fakultas
 - Prodi
 
+## Alur
+Dalam program sudah ada data yang diinputkan secara hardcode, user bisa memanggil perintah show untuk menampilkan data, kemudian ada perintah add untuk menambah data baru dan exit untuk keluar dari program
+
 ## Dokumentasi
+![Screenshot (313)](https://user-images.githubusercontent.com/100754802/218935166-1735079f-fe17-41f5-a057-9334fb212953.png)
