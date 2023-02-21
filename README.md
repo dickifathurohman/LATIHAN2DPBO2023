@@ -23,10 +23,13 @@ Ada class tambahan yaitu Crud untuk menampilkan data mahasiswa dan menambahkan d
 Dalam program sudah ada data yang diinputkan secara hardcode, user bisa memanggil perintah show untuk menampilkan data, kemudian ada perintah add untuk menambah data baru dan exit untuk keluar dari program
 
 ## Dokumentasi
-- Java
+### Java
 ![Screenshot (313)](https://user-images.githubusercontent.com/100754802/218935166-1735079f-fe17-41f5-a057-9334fb212953.png)
-- Python
+### Python
 ![image](https://user-images.githubusercontent.com/100754802/220357242-7e410582-19f3-465c-8980-3489c5e6f15e.png)
-- PHP
+### PHP
 ![image](https://user-images.githubusercontent.com/100754802/220357377-68983019-08ba-4c79-a7f8-b7fa91f79a32.png)
+### C++
+![image](https://user-images.githubusercontent.com/100754802/220360208-10f2b34a-085a-42f3-82ca-ff660a1ab41c.png)
+
 
