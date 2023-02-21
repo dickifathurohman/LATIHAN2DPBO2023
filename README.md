@@ -14,9 +14,9 @@ Class SivitasAkademik memiliki atribut asal universitas dan email universitas. C
 3. Mahasiswa (Derived Class 2) -> mewarisi SivitasAkademik
 Class Mahasiswa memiliki atribut NIM, Prodi dan Fakultas. Class ini menjadi child dari class sivitas akademik. Alasannya karena Mahasiswa termasuk kedalam sivitas akademik.
 
-Ada class tambahan yaitu Crud untuk menampilkan data mahasiswa dan menambahkan datanya
-
 ![dpbo2](https://user-images.githubusercontent.com/100754802/218935207-c6259434-7210-448c-9bb8-f05a68cbf2a2.jpg)
+
+Ada class tambahan yaitu Crud (pada python dan CPP) untuk menampilkan data mahasiswa dan menambahkan datanya
 
 
 ## Alur
